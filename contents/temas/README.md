@@ -16,6 +16,8 @@ Agora entre dentro do arquivo ``~/.zshrc`` que é o arquivo de configuração do
 
 Agora reinicie o terminal e pronto!, o *Spaceship* estará instalado!
 
+![output-1](../../assets/temas/output-1.png)
+
 Também recomendo que você pesquise o tema *Powerlevel10k*, que é outro tema também muito utilizado e que permite uma altíssima personalização.
 
 ## Proximo =>
