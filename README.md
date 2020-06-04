@@ -12,8 +12,9 @@ O Zsh é um interpretador de comandos para UNIX, ou um shell, na maioria dos sis
 2. [Usar o Zsh](contents/usando-zsh/README.md)
 3. [Tab, o seu melhor amigo!](contents/tab/README.md)
 4. [Oh My Zsh!](contents/ohmyzsh/README.md)
-5. [Temas no Zsh](contents/temas/README.md)
-6. [Plugins no Zsh](contents/plugins/README.md)
+5. [zshrc](contents/zshrc/README.md)
+6. [Temas no Zsh](contents/temas/README.md)
+7. [Plugins no Zsh](contents/plugins/README.md)
 
 ## Contribuindo
 

@@ -2,7 +2,7 @@
 
 Agora vamos instalar um tema muito popular, o *Spaceship* usando o Oh My Zsh.
 
-Primeiro para baixar ele no seu sistema, clone o repositório do *Spaceship* dessa maneira:
+Primeiro para baixar ele no seu sistema, clone o repositório do *Spaceship* usando o Git, dessa maneira:
 
 ``git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"``
 
@@ -22,4 +22,4 @@ Também recomendo que você pesquise o tema *Powerlevel10k*, que é outro tema t
 
 ## Proximo =>
 
-[Plugins no Zsh](contents/plugins/README.md)
+[Plugins no Zsh](../plugins/README.md)

@@ -6,8 +6,8 @@ Para instalar o Oh My Zsh use:
 
 ``sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"``
 
-E pronto!, agora vamos começar a criar o SEU novo Zsh!
+E pronto!, agora vamos começar a criar o SEU novo Zsh, com plugins e temas!
 
 ## Proximo =>
 
-[Temas no Zsh](contents/temas/README.md)
+[Temas no Zsh](../zshrc/README.md)

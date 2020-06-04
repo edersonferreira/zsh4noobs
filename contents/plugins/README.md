@@ -1,6 +1,6 @@
 # Plugins no Zsh
 
-No Zsh podemos instalar *plugins* que adicionam funções e produtividade no uso com o Oh My Zsh, vamos instalar 2 plugins para melhorar o nosso Zsh.
+No Zsh podemos instalar *plugins* que adicionam funções e produtividade no uso com o Oh My Zsh, como extensões de navegador por exemplo, vamos instalar 2 plugins para melhorar o nosso Zsh.
 
 ## zsh-syntax-highlighting
 
