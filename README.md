@@ -5,6 +5,7 @@ O Zsh é um interpretador de comandos para UNIX, ou um shell, na maioria dos sis
 ## Pré Requisitos
 
 [Conhecer Linux/Mac OS em sua linha de comando](https://github.com/lucashe4rt/linux4noobs)
+
 [Saber usar comandos básicos de git](https://github.com/danielhe4rt/git4noobs)
 
 ## Conteúdos
