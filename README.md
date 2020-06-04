@@ -2,6 +2,8 @@
 
 O Zsh é um interpretador de comandos para UNIX, ou um shell, na maioria dos sistemas UNIX ou UNIX like o shell padrão é o Bash, que na opinião de muitos, não é o mais prazeroso para usuários avançados,  enquanto o Zsh permite uma maior personalização e produtividade no uso de um Terminal.
 
+![Logo](assets/logo.png)
+
 ## Pré Requisitos
 
 [Conhecer Linux/Mac OS em sua linha de comando](https://github.com/lucashe4rt/linux4noobs)
