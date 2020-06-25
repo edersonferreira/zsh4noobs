@@ -10,7 +10,7 @@ Agora crie um Link simbólico dele na pasta do seu Oh My Zsh:
 
 ``ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"``
 
-Agora entre dentro do arquivo ``~/.zshrc`` que é o arquivo de configuração do seu zsh, e edite a variável de ambiente ``ZSH_THEME``, mude o valor corrente dela para ``spaceship``
+Agora entre dentro do arquivo ``~/.zshrc`` que é o arquivo de configuração do seu zsh usando o editor de texto que você escolheu, e edite a variável de ambiente ``ZSH_THEME``, mude o valor corrente dela para ``spaceship``
 
 ``ZSH_THEME="spaceship"``
 
