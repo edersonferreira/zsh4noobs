@@ -1,6 +1,6 @@
 # Plugins no Zsh
 
-No Zsh podemos instalar *plugins* que adicionam funções e produtividade no uso com o Oh My Zsh, como extensões de navegador por exemplo, vamos instalar 2 plugins para melhorar o nosso Zsh.
+No Zsh podemos instalar _plugins_ que adicionam funções e produtividade no uso com o Oh My Zsh, como extensões de navegador por exemplo, vamos instalar 2 plugins para melhorar o nosso Zsh.
 
 ## zsh-syntax-highlighting
 
@@ -8,23 +8,17 @@ Adiciona uma syntax Highligth no nosso Zsh, facilitando você saber se o comando
 
 Para instalar, use:
 
-``git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting``
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
-Agora para definir ele como um dos plugins do seu Zsh, entre em ``~/zshrc``, procure uma parte com  ``plugins=()`` e edite:
+Agora para definir ele como um dos plugins do seu Zsh, entre em `~/zshrc`, procure uma parte com `plugins=()` e edite:
 
-``
-plugins=(
-    git,
-    dnf,
-    zsh-syntax-highlighting
-)
-``
+`plugins=( git, dnf, zsh-syntax-highlighting )`
 
 Agora você verá algo parecido com isso:
 
 ![output-1](../../assets/plugins/output-1.png)
 
-Obs: estou usando o tema *Powerlevel10k* que eu havia comentado no capítulo anterior
+Obs: estou usando o tema _Powerlevel10k_ que eu havia comentado no capítulo anterior
 
 ## zsh-autosuggestions
 
@@ -32,18 +26,11 @@ Adiciona uma auto-sugestão no Zsh baseada em seu histórico, tornando mais fác
 
 Instale ele na sua máquina:
 
-``git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions``
+`git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
 
 edite seu `~/zshrc` para adicionar o plugin na lista:
 
-``
-plugins=(
-    git,
-    dnf,
-    zsh-syntax-highlighting,
-    zsh-autosuggestions
-)
-``
+`plugins=( git, dnf, zsh-syntax-highlighting, zsh-autosuggestions )`
 
 # Parabéns!
 
