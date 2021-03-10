@@ -12,7 +12,7 @@ Para instalar, use:
 
 Agora para definir ele como um dos plugins do seu Zsh, entre em `~/zshrc`, procure uma parte com `plugins=()` e edite:
 
-`plugins=( git, dnf, zsh-syntax-highlighting )`
+`plugins=( git; dnf; zsh-syntax-highlighting)`
 
 Agora você verá algo parecido com isso:
 
@@ -30,7 +30,7 @@ Instale ele na sua máquina:
 
 edite seu `~/zshrc` para adicionar o plugin na lista:
 
-`plugins=( git, dnf, zsh-syntax-highlighting, zsh-autosuggestions )`
+`plugins=( git; dnf; zsh-syntax-highlighting; zsh-autosuggestions )`
 
 # Parabéns!
 
